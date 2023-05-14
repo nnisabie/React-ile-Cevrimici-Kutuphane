@@ -2,6 +2,15 @@
 React ile Çevrimiçi Kütüphane Uygulaması
 
 Bu uygulama sayesinde Hasan Ali Yücel klasikleri serisindeki kitapların özetini bulabilir , dilerseniz kendi özetlerinizi de ekleyebilirsiniz.
+Kitap isimlerini unutan kullanıcılar için kitap kapakları da kullanılacaktır. Böylelikle tamamen sanal bir kütüphane oluşturmuş olacağız.
+
+*Proje Web uygulama platformları üzerinden gerçekleştiği için kullanıcıların uygulamaları kolayca kullanmalarını sağlanacaktır.*
+
+*Kullanıcılar, herhangi bir yazılımı indirip yüklemek zorunda kalmadan uygulamalara erişebilecektir.*
+
+*Böylelikle kullanıcılar özetlerini herhangi bir cihaza bağlı kalmadan dilediği gibi ekleyecektir.*
+
+
 Başlangıç için aşağıdaki kitap özetlerini bulabilirsiniz. **Yeni özetler eklendikçe uygulama güncellenecektir.**
 
 * Gurur ve Önyargı - Jane Austen
