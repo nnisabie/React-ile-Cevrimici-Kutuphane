@@ -6,7 +6,7 @@ Kitap isimlerini unutan kullanıcılar için kitap kapakları da kullanılacakt�
 
 *Proje Web uygulama platformları üzerinden gerçekleştiği için kullanıcıların uygulamaları kolayca kullanmalarını sağlanacaktır.*
 
-*Kullanıcılar, herhangi bir yazılımı indirip yüklemek zorunda kalmadan uygulamalara erişebilecektir.*
+*Kullanıcılar, herhangi bir yazılımı indirip yüklemek zorunda kalmadan uygulamaya erişebilecektir.*
 
 *Böylelikle kullanıcılar özetlerini herhangi bir cihaza bağlı kalmadan dilediği gibi ekleyecektir.*
 
