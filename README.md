@@ -25,5 +25,4 @@ Başlangıç için aşağıdaki kitap özetlerini bulabilirsiniz. **Yeni özetle
 * Ölü Canlar - Nikolay Vasilyeviç Gogol
 
 **Daha detaylı bilgi için sitemi ziyaret edebilirsiniz.**
-*https://sites.google.com/d/1QpqT3Gk4b0nTFrTV-QB-
-bszyyxY4to6X/p/1c7NovTtRPkbHQV-mtbxTz7l9Qw8sFMl3/edit*
+*https://sites.google.com/d/1QpqT3Gk4b0nTFrTV-QB-bszyyxY4to6X/p/1c7NovTtRPkbHQV-mtbxTz7l9Qw8sFMl3/edit*
