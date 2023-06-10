@@ -9,6 +9,6 @@ Gelelim bir react projesinin nasıl oluşturulduğuna.
 * src klasörümüzün altına "components" isimli bir klasör oluşturuyoruz ve kodlarımızı yazacağımız dosyalarımızı bu klasörün içine yazıyoruz.* **components, bileşenler anlamına gelir ve yeniden kullanılabilir ve bağımsız öğeler içerir.**
 * Kodlarımızı yazdığımız dosya uzantılarının js olmasına dikkat edelim.*
 * Dosyalarımızı birbirine bağlarken "import" yöntemini kullanıyoruz. importlar genellikle dosyanın en üstüne yazılır. ** Örneğin "import React from 'react'; " ifadesi, React kütüphanesinden React adında bir nesneyi projenize dahil etmek anlamına gelir.**
-* Projeyi browser da açmak için terminale "npm run start" yazmamız gerekiyor. Bu işlemden sonra bir browser sayfası açılır ve projedeki değişikliklerimizi adım adım buradan görebiliriz. Browser ı terminalden çıkarmak için ctrl+c yapmamız yeterlidir.*
-* İçeriğe gelirsek , projemde bir kitap serisi bulunuyor. Şuanlık sadece isimleri mevcut. İlerleyen zamanda kitapların özetlerini de ekleyeceğim. Hatta ekleyeceğiz. **React tercih etmemin bir diğer nedeni de açık kaynaklı olması.** Dilerseniz istediğiniz kitapların özetini sizler de ekleyebileceksiniz.*
-* Kitapların görselleriyle desteklediğim bu projeyi sanal bir kütüphaneye dönüştürmeyi hedefliyorum*
+* Projeyi browser da açmak için terminale "npm run start" yazmamız gerekiyor. Bu işlemden sonra bir browser sayfası açılır ve projedeki değişikliklerimizi adım adım buradan görebiliriz. Browser ı terminalden çıkarmak için ctrl+c yapmamız yeterlidir.*  
+* İçeriğe gelirsek , projemde bir kitap serisi bulunuyor. Şuanlık sadece isimleri mevcut. İlerleyen zamanda kitapların özetlerini de ekleyeceğim. Hatta ekleyeceğiz. **React tercih etmemin bir diğer nedeni de açık kaynaklı olması.** Dilerseniz istediğiniz kitapların özetini sizler de ekleyebileceksiniz * 
+* Kitapların görselleriyle desteklediğim bu projeyi sanal bir kütüphaneye dönüştürmeyi hedefliyorum *
